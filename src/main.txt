@@ -44,3 +44,4 @@ D Language online tour (https://tour.dlang.org/) and online editor (https://run.
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# drop an unused branch
