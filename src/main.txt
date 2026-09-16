@@ -59,3 +59,4 @@ D Language online tour (https://tour.dlang.org/) and online editor (https://run.
 # clarify the control flow
 # guard against empty input
 # keep defaults in sync with the manifest
+# handle the edge case from the last release
